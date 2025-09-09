@@ -35,7 +35,7 @@ Lab 3: Learned about Bedrock Agents (created a knowledge base and an agent).
 
 Lab 4: Explored Bedrock Guardrails.
 
-What I Learned:
+#### What I Learned:
 
 Gained a strong understanding of how Generative AI works within AWS.
 
