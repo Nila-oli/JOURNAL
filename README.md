@@ -44,3 +44,49 @@ Learned practical applications of prompt engineering and how to design effective
 Discovered how to use Bedrock Knowledge Bases and Agents for AI workflows.
 
 Understood the importance of guardrails in ensuring safe and responsible AI outputs.
+
+### DAY 3
+
+concepts:
+
+Foundation Models and their role in generative AI.
+
+Content Generation using large language models.
+
+Chatbots – basics, chatbot with embeddings, and chatbot with RAG.
+
+Embedding and Text Similarity Applications.
+
+Vector Databases and their use in storing and searching embeddings.
+
+Retrieval-Augmented Generation (RAG) and its importance in enhancing chatbot responses.
+
+Workshop : Amazon Bedrock Intensive Development Workshop labs, which included:
+
+Working with foundation models for text and image generation.
+
+Parameter tuning to optimize model outputs.
+
+Applying prompt engineering basics in practical exercises.
+
+Developing a conversational chatbot.
+
+Exploring embedding with vector databases.
+
+Building a chatbot with natural language search.
+
+Implementing a chatbot with Retrieval-Augmented Generation (RAG).
+
+#### What I Learned:
+
+How foundation models can be adapted for text and image generation.
+
+The importance of parameter tuning for improving output quality.
+
+Practical applications of embeddings and how they work with vector databases.
+
+How to integrate RAG into chatbots to make them smarter and more context-aware.
+
+Understood the progression from a simple chatbot to chatbots with embeddings and RAG for better contextual responses.
+
+Explored how embeddings and vector databases power similarity search and natural language queries.
