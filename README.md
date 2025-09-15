@@ -168,3 +168,32 @@ Gained clarity on the project’s workflow and structure.
  ## WEEK 2
 
  ### DAY 6
+
+We were divided into 4 groups, each with 7 members.
+
+Each group was given a mini-project to create a web application using Vibe Coding and present it.
+
+My group developed a Pet Services App using Vibe Coding.
+
+Successfully completed the app and gave a presentation at the end of the session.
+
+In the last hour, attended a database session with Luke McLeod, where we learned about:
+
+Introduction to Amazon Redshift
+
+Architecture of Redshift
+
+Evolution of Redshift and its use cases
+
+#### What I Learned:
+
+How to collaborate as a team and build a web application prototype quickly.
+
+Practical use of Vibe Coding for rapid application development.
+
+Basics of Amazon Redshift, including its architecture and how it has evolved to support large-scale data analytics.
+
+-----------------------------------------------
+
+
+ 
