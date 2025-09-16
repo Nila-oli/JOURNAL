@@ -196,4 +196,22 @@ Basics of Amazon Redshift, including its architecture and how it has evolved to 
 -----------------------------------------------
 
 
- 
+ ### DAY 7
+
+Work from home / Self-study day.
+
+Completed Introduction to Building with AWS Databases and Amazon Redshift on AWS Skill Builder.
+
+Watched demo videos and explored the basics of Amazon Redshift.
+
+#### What I Learned:
+
+Learned the different types of databases and their characteristics.
+
+Gained an understanding of which database types suit different customer requirements.
+
+Learned the basics of Amazon Redshift, including its core functionality and use cases.
+
+Today was a self-paced learning day, which helped strengthen my foundational knowledge of databases and Amazon Redshift.
+
+This knowledge is crucial for understanding real-world customer requirements and choosing the right database solutions in cloud applications.
