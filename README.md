@@ -215,3 +215,23 @@ Learned the basics of Amazon Redshift, including its core functionality and use 
 Today was a self-paced learning day, which helped strengthen my foundational knowledge of databases and Amazon Redshift.
 
 This knowledge is crucial for understanding real-world customer requirements and choosing the right database solutions in cloud applications.
+
+
+-----------------------------------------------
+
+
+ ### DAY 8
+
+Work from home / Self-study day.
+
+Attended a Zoom meeting with Amit in the morning to check progress on self-study activities.
+
+Amit assigned us an AWS Skill Builder course on Database Offerings for deeper learning.
+
+#### What I Learned:
+
+The importance of consistent self-study to strengthen database concepts.
+
+Introduction to AWS’s wide range of database services and why understanding them is critical for cloud solutions.
+
+How different AWS databases address various customer requirements.
