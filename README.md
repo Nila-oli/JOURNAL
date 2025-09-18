@@ -235,3 +235,33 @@ The importance of consistent self-study to strengthen database concepts.
 Introduction to AWS’s wide range of database services and why understanding them is critical for cloud solutions.
 
 How different AWS databases address various customer requirements.
+
+
+-----------------------------------------------
+
+
+ ### DAY 9
+
+Morning Zoom meeting with Amit, where we discussed general updates and progress.
+
+Assigned two AWS Skill Builder labs:
+
+AWS SimuLearn: Database in Practice and AWS SimuLearn: First NoSQL Database
+
+After completing the labs, Amit assigned a workshop on Three-Tier Web Architecture, which included:
+
+Hands-on walkthrough of a three-tier web architecture in AWS.
+
+Manually creating the network, security, application, and database components.
+
+Configuring resources to ensure the architecture is available and scalable.
+
+#### What I Learned:
+
+Practical understanding of how databases work in real-world scenarios through AWS SimuLearn.
+
+First-hand experience with NoSQL databases and how they differ from traditional relational databases.
+
+The structure and importance of a three-tier architecture for building scalable applications.
+
+How to manually configure networking, security groups, application layers, and database integration in AWS. 
