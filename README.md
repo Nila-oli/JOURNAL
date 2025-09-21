@@ -265,3 +265,42 @@ First-hand experience with NoSQL databases and how they differ from traditional 
 The structure and importance of a three-tier architecture for building scalable applications.
 
 How to manually configure networking, security groups, application layers, and database integration in AWS. 
+
+
+-----------------------------------------------
+
+
+ ### DAY 10
+
+Attended an Immersion Day Workshop, which covered the following AWS core concepts:
+
+- Compute
+
+- Networking
+
+- Security
+
+- Monitoring
+
+- Databases
+
+- Storage
+
+Explored these services in depth with a hands-on lab session.
+
+At the end of the day, met Swetha from AWS Partner Services, who introduced Amazon Connect and explained:
+
+How AWS partners sell AWS products.
+
+The type of support they provide to customers and clients.
+
+How they communicate with AWS Support Enginners etc.
+
+#### What I Learned:
+
+Gained a comprehensive overview of AWS core concepts, which are the building blocks for cloud solutions.
+
+Understood how these services interconnect to create secure, scalable, and monitored cloud environments.
+
+Learned about Amazon Connect and its role in customer engagement and partner support.
+ 
