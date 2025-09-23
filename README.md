@@ -304,3 +304,69 @@ Understood how these services interconnect to create secure, scalable, and monit
 
 Learned about Amazon Connect and its role in customer engagement and partner support.
  
+
+-----------------------------------------------
+
+
+ ## WEEK 3
+
+ ### DAY 11
+
+Met two engineers, Regean and Special, who conducted a workshop on building a website.
+
+The session involved hands-on troubleshooting, which helped deepen our understanding of core cloud concepts.
+
+Took part in a challenge where we created an Auto Scaling setup using an existing instance.
+
+Gained additional knowledge about Amazon VPC (Virtual Private Cloud) and its role in networking and scalability.
+
+#### What I Learned:
+
+Practical skills in website deployment and common troubleshooting techniques.
+
+How to configure Auto Scaling for high availability and cost efficiency.
+
+A stronger grasp of VPC fundamentals and how networking ties into cloud architecture.
+
+Troubleshooting deployment issues during the workshop required patience and teamwork.
+
+Setting up auto scaling with the right configurations
+
+-----------------------------------------------
+
+
+ ### DAY 12
+
+Morning: Completed two AWS Skill Builder labs:
+
+AWS SimuLearn: Auto-Healing and Scaling Applications
+
+SimuLearn: Connecting VPC
+
+Afternoon: Attended PostgreSQL Fundamentals (Self-Managed) workshop by Amit.
+
+PostgreSQL (PG) is one of the most popular relational databases.
+
+Learned about Amazon RDS for PostgreSQL (RDS/PG) and Amazon Aurora PostgreSQL (APG), which power many business-critical applications on AWS.
+
+The session covered:
+
+Introduction to PostgreSQL
+
+Target Audience: AWS customers
+
+Crash Course topics:
+
+Intro & architecture
+
+Process & memory handling
+
+File system & configuration
+
+Security model
+
+Performance optimization
+
+Developer essentials
+
+Hands-on labs were included to strengthen understanding.
