@@ -370,3 +370,22 @@ Performance optimization
 Developer essentials
 
 Hands-on labs were included to strengthen understanding.
+
+-----------------------------------------------
+
+
+ ### DAY 13
+
+ Morning Session:
+
+Continued working on the PostgreSQL Fundamentals workshop that was introduced on Day 12.
+
+Explored deeper topics such as PostgreSQL Query language, along with practical exercises.
+
+Afternoon Session:
+
+Completed the AWS Skill Builder SimuLearn: Networking Concepts lab, which provided practical knowledge of networking in AWS, including VPC, subnets, routing, and security groups.
+
+Worked on the Elastic Load Balancing (ELB) lab, which gave hands-on experience in distributing traffic across multiple EC2 instances, ensuring high availability and fault tolerance.
+
+This also helped reinforce how ELB integrates with other AWS services, such as Auto Scaling and monitoring tools.
