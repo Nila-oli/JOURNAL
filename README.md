@@ -389,3 +389,74 @@ Completed the AWS Skill Builder SimuLearn: Networking Concepts lab, which provid
 Worked on the Elastic Load Balancing (ELB) lab, which gave hands-on experience in distributing traffic across multiple EC2 instances, ensuring high availability and fault tolerance.
 
 This also helped reinforce how ELB integrates with other AWS services, such as Auto Scaling and monitoring tools.
+
+
+-----------------------------------------------
+
+
+ ### DAY 14
+
+ Today was another self-paced study day, focused on serverless architecture with DynamoDB and Identity and Access Management (IAM).
+
+- Morning Session – Amazon DynamoDB for Serverless Architecture
+
+- Completed a Skill Builder course on Amazon DynamoDB, one of AWS’s most popular NoSQL database services.
+
+- The course provided both theoretical and hands-on learning, focusing on how DynamoDB supports serverless applications.
+
+#### What I Learned:
+
+- Understand core DynamoDB components and how to set up and access them.
+
+- Learn to design and build serverless applications using DynamoDB with other AWS services.
+
+- Explore DynamoDB features and best practices, including performance tuning and monitoring.
+
+- Compare SQL vs NoSQL databases and identify scenarios where DynamoDB is the right fit.
+
+- Understand how to migrate from relational databases (RDBMS) to DynamoDB.
+
+- Learn how to monitor performance with CloudWatch, CloudTrail, and CloudWatch Logs.
+
+Afternoon Session – IAM Immersion Day Workshop
+
+- Attended a workshop focused on AWS Identity and Access Management (IAM), which is the backbone of AWS security.
+
+- The workshop gave us hands-on labs and best practices for managing users, roles, and permissions.
+
+#### Topics Covered:
+
+- IAM fundamentals and core concepts.
+
+- Understanding IAM identities (users, groups, and roles) and when to use each.
+
+- Creating and managing IAM policies to grant permissions.
+
+
+-----------------------------------------------
+
+
+ ### DAY 15
+
+-  Today’s focus was on completing the IAM workshop and learning about Amazon OpenSearch Service through a live hands-on lab.
+
+Morning Session – IAM Workshop (Final Part)
+
+- Wrapped up the remaining concepts of IAM, focusing on the last pieces of identity, access, and permissions management.
+
+- Reinforced best practices in securely managing AWS accounts and resources.
+
+- Afternoon Session – OpenSearch Live Learning Lab
+
+- A guest engineer specializing in OpenSearch conducted a hands-on workshop.
+
+#### Key Activities:
+
+- Created an OpenSearch domain, applied IP-based access policies, and enabled Fine-Grained Access Control (FGAC).
+
+- Loaded sample data, explored it with the Discover tab, and practiced queries using Dev Tools (Query DSL).
+
+- Set up an additional user and role, mapped permissions, and tested restricted access.
+
+
+
