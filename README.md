@@ -459,3 +459,126 @@ Morning Session – IAM Workshop (Final Part)
 
 
 
+-----------------------------------------------
+
+
+ ### DAY 16
+
+
+Morning Session: Amit divided us into 4 groups, each with 7 members, and assigned women as team leaders for every group. Each team had to act as support engineers for a specific AWS service, while the other groups acted as clients.
+
+- Our team represented Amazon EC2.
+
+- The other teams represented VPC, IAM, and DynamoDB.
+
+- We spent the first half of the day preparing—studying the assigned AWS service, planning explanations, and anticipating potential client questions.
+
+Afternoon Session:
+
+- Each team delivered their presentation on the assigned service.
+
+- The rest of the groups acted as clients, asking questions and clarifying doubts.
+
+- This interactive Q&A format made the learning engaging and helped everyone deepen their understanding of core AWS services.
+
+
+-----------------------------------------------
+
+
+ ### DAY 17
+
+- Morning Session – Serverless Application Workshop
+
+- Learned the end-to-end process of building a serverless application.
+
+concepts covered:
+
+- Microservices and Synchronous Invocation
+
+- Setting up a data store and business logic
+
+- Creating and securing an API with User Pools & Authorization
+
+- Testing (unit & integration tests)
+
+- Adding observability with alarms and dashboards
+
+- CI/CD pipelines with automated testing and deployments
+
+- Concept: The workshop provided a complete picture of how to design, build, secure, test, and monitor a serverless application on AWS, with an emphasis on automation and scalability.
+
+Afternoon Session – AWS Skill Builder Lab
+
+- Completed SimuLearn: Computing Solutions lab focused on Amazon EC2.
+
+- Gained practical experience with EC2, strengthening understanding of computing solutions in AWS.
+
+
+
+-----------------------------------------------
+
+
+ ### DAY 18
+
+- Today was a refresher and practice day, designed to reinforce our understanding of key technical concepts through a fun and collaborative quiz activity.
+
+Morning Session:
+
+- We were divided into 4 groups (7 members each), with each group assigned a specific topic:
+
+1. Networking
+
+2. Linux & Python (my team’s topic)
+
+3. Storage & AWS Security
+
+4. Windows & Lambda
+
+- Each team prepared 25 quiz questions related to their topic.
+
+- The quizzes were presented on the projector, and other teams answered while the presenting team explained the correct solutions.
+
+Afternoon Session:
+
+- Each group created a new set of 25 intermediate-level quiz questions.
+
+- This round was more challenging and helped us go deeper into the technical concepts.
+
+- The day was highly interactive and engaging. Preparing and answering quizzes improved our knowledge in Linux, Python, Networking, Storage, Security, Windows, and Lambda. It was a fun way to revise, clarify doubts, and strengthen our understanding of AWS and general technical skills.
+
+
+-----------------------------------------------
+
+
+ ### DAY 19
+
+
+- Today we focused on DevOps practices with a workshop on Blue/Green deployment pipelines using Amazon ECS.
+
+- Morning: Amit introduced the workshop “Build Your First DevOps Blue/Green Deployment Pipeline for a Monolith Application with Amazon ECS.”
+
+- Learned about Blue/Green deployment strategy, ECS clusters with EC2 and Fargate, and how CI/CD ensures zero-downtime deployments.
+
+- Hands-on steps included creating ECS clusters, deploying a monolith app, and switching traffic safely between environments.
+
+- Midday: Took a technical assessment to review AWS concepts and labs covered so far.
+
+- Afternoon: Continued the workshop, focusing on monitoring deployments, rollback strategies, and testing automation.
+
+
+-----------------------------------------------
+
+
+ ### DAY 20
+
+- Last Day of Internship (Work from Office)
+
+- Continued working on the Blue/Green Deployment workshop from Day 19, finalizing the hands-on practice and troubleshooting errors.
+
+- Interviews were conducted during the day, giving us an opportunity to reflect on what we learned throughout the internship.
+
+- At midday, Amit delivered a presentation, highlighting key concepts and reinforcing important takeaways.
+
+- The day ended with a group discussion on the workshop activities, where we collaborated to resolve issues and share learnings.
+
+- Takeaway: A meaningful conclusion to the internship—combining technical practice, problem-solving, and reflection on the overall learning journey.
